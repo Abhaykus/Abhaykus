@@ -11,6 +11,6 @@ initial-scale=1.0">
     <body>
         <h1>Science</h1>
          <p>Chemestry</p>
-      <img src="" alt="Error occurred ">
+      <img src="https://www.popsci.com/uploads/2019/01/07/5ICYRFD2JZ7XJY6SBQT42W5UKI-768x768.png" alt="Error occurred ">
     </body>
     </html>
