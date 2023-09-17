@@ -11,6 +11,6 @@ initial-scale=1.0">
     <body>
         <h1>Science</h1>
          <p>Chemestry</p>
-      
+      <img src="" alt="Error occurred ">
     </body>
     </html>
